@@ -1,7 +1,7 @@
 # My profile
 
-![Ashish Panday](./banner.png)
-<!-- <h2 align='center'>Ashish Panday @ Ashish </h2>
+![Ashish Pandey](https://svgsilh.com/svg/2759950.svg)
+<!-- <h2 align='center'>Ashish Pandey @ Ashish </h2>
 <p align='center'><b>Graduate Student at University of Rgpv tit bhopal</b></p> -->
 
 <h2>Hey! 👋</h2>
