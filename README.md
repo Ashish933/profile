@@ -57,8 +57,8 @@ __Check out my GitHub repository:__
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
+- Check out my Blog: [https://Ashis pandey](https://Ashis pandey)
+- Know more about me: [About Ashis pandey](https://Ashis pandey)
 - Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
 
 <h2>📫 How to reach me:</h2>
